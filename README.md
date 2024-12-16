@@ -1,8 +1,8 @@
 # Project-2
  
-**##Automated Data Analysis Tool**
+# Automated Data Analysis Tool
 
-###Overview
+## Overview
 
 This project is an end-to-end automated data analysis pipeline that simplifies complex data preprocessing, analysis, and reporting tasks. It is designed to handle real-world datasets that often include missing values, outliers, and diverse feature types. By combining machine learning techniques, statistical analysis, and visualization tools, this script provides actionable insights efficiently.
 

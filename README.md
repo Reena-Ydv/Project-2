@@ -136,7 +136,7 @@ requirements.txt: Dependencies required to run the script..
 
 Markdown Report:
 
-# Automated Data Analysis Report
+## Automated Data Analysis Report
 
 ## Correlation Matrix
 The correlation matrix is shown below, displaying relationships between numerical features.
